@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JoinMeOnMastodon/static/css/main.073c9b0a.css",
+    "main.js": "/JoinMeOnMastodon/static/js/main.d2a0c5ee.js",
+    "static/js/787.0f983021.chunk.js": "/JoinMeOnMastodon/static/js/787.0f983021.chunk.js",
+    "static/media/logo.svg": "/JoinMeOnMastodon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JoinMeOnMastodon/index.html",
+    "main.073c9b0a.css.map": "/JoinMeOnMastodon/static/css/main.073c9b0a.css.map",
+    "main.d2a0c5ee.js.map": "/JoinMeOnMastodon/static/js/main.d2a0c5ee.js.map",
+    "787.0f983021.chunk.js.map": "/JoinMeOnMastodon/static/js/787.0f983021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2a0c5ee.js"
+  ]
+}
